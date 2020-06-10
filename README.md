@@ -26,3 +26,5 @@ can do all user functions in addition to:
 *See and delete any user.
 <br>
 *Delete any post.
+<br>
+composer install , php artisan key:generate , php artisan migrate , php artisan serve
